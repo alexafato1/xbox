@@ -379,6 +379,8 @@ footer{
         padding-top: 30px;
     }
 
+
+
    
     
   
@@ -438,6 +440,13 @@ footer{
     
     #next{
         right:20px;
+    }
+
+    .design__bg-img{
+        height: 350;
+        object-fit: cover;
+        
+    
     }
     
    
