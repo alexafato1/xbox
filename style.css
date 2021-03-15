@@ -442,10 +442,10 @@ footer{
         right:20px;
     }
 
-    .design__bg-img{
-        width:auto;
+    .design img{
+       
         height: 300px;
-        object-fit: fill;
+        object-fit: cover;
         
     
     }
