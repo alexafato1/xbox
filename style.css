@@ -429,11 +429,16 @@ footer{
         font-size: 26px;
     }
     .main__video{
-        width: 90%;
-      
+        width: 90%; 
      
     }
+    #prev{
+        left:20px;
+    }
     
+    #next{
+        right:20px;
+    }
     
    
 }
